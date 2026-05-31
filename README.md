@@ -21,7 +21,7 @@ A focused maintenance workflow tool for property managers — built to bring ord
 ![Properties](docs/screenshots/properties.png)
 
 ### Email Templates
-![Email Templates](docs/screenshots/email-templates.png.png)
+![Email Templates](docs/screenshots/email-templates.png)
 
 ---
 
