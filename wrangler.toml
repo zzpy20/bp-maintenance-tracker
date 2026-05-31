@@ -1,0 +1,22 @@
+name = "bp-maintenance-tracker"
+main = "worker/index.ts"
+compatibility_date = "2025-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[routes]]
+pattern = "bp-tracker.plos.xyz"
+custom_domain = true
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bp-maintenance-db"
+database_id = "9b3ba337-66d4-4dca-9a2e-5391812f3ffb"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "FILES"
+bucket_name = "bp-maintenance-files"
