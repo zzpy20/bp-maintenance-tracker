@@ -6,6 +6,25 @@ A focused maintenance workflow tool for property managers — built to bring ord
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Issue List
+![Issues](docs/screenshots/issues.png)
+
+### Issue Detail
+![Issue Detail](docs/screenshots/issue-detail.png)
+
+### Properties
+![Properties](docs/screenshots/properties.png)
+
+### Email Templates
+![Email Templates](docs/screenshots/email-templates.png.png)
+
+---
+
 ## The Problem
 
 Property managers juggling 50+ tenancies face a daily challenge: maintenance requests arrive scattered across email inboxes, WhatsApp messages, and property management portals. Each repair job involves a multi-step workflow — log the issue, source quotes, get owner approval, instruct tradespeople, chase for invoices and photo evidence — with no single place to see where each job stands.
